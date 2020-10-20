@@ -3,8 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=CaledonianEH)
 
 ## My Languages
-- Java
-  - Spigot
+- **Java** *(Main)*
+ - Spigot
+ - JDA
 
 ## My Projects
 - HybridSMP - Personal SMP Server core focused around fun and productivity.
