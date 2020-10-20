@@ -4,6 +4,5 @@
 #### Stats
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CaledonianEH" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaledonianEH" width="450" /> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaledonianEH" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaledonianEH" width="300" /> 
 </p>
