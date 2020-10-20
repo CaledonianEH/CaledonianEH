@@ -4,8 +4,8 @@
 
 ## My Languages
 - **Java** *(Main)*
- - Spigot
- - JDA
+  - Spigot
+  - JDA
 
 ## My Projects
 - HybridSMP - Personal SMP Server core focused around fun and productivity.
