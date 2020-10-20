@@ -8,7 +8,7 @@
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaledonianEH" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaledonianEH" width="600" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
