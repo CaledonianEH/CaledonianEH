@@ -5,3 +5,10 @@
 [![Caledonian EH's github stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH)](https://github.com/CaledonianEH)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaledonianEH)](https://github.com/CaledonianEH)
 [![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=CaledonianEH)](https://github.com/CaledonianEH)
+
+
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
