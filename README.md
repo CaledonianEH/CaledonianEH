@@ -9,7 +9,7 @@
 
 ## My Projects
 - HybridSMP - Personal SMP Server core focused around fun and productivity.
-- HybridSync - Public discord intergration and rank sync plugin with API integrations with vault, litebans, and luckperms
+- HyskiesPunch - Punch plugin similar to hypixel, full SQL support
 - Hyskies - General custom plugins built for functionality (Private)
 
 ## Communication
