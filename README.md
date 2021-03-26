@@ -1,4 +1,4 @@
-# Hello! I'm [Caledonian EH](https://www.github.com/CaledonianEH "GitHub"), A new java developer developing spigot plugins and discord bots.
+# Hello! I'm [Caledonian](https://www.github.com/CaledonianEH "GitHub"), A new java developer developing spigot plugins and discord bots.
 
 ![](https://komarev.com/ghpvc/?username=CaledonianEH)
 
@@ -13,9 +13,9 @@
 - Hyskies - General custom plugins built for functionality (Private)
 
 ## Communication
-- Discord: Caledonian EH#8960
+- Discord: Caledonian#8960
 - Email: caledonianeh@gmail.com
-- GitHub: CaledonianEH
+- GitHub: Caledonian
 
 
 ## Stats
