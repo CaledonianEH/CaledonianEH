@@ -8,7 +8,7 @@
   - JDA
 
 ## My Projects
-- HybridSMP - Personal SMP Server core focused around fun and productivity.
+- Voltrix - My current big project. 
 - HyskiesPunch - Punch plugin similar to hypixel, full SQL support
 - Hyskies - General custom plugins built for functionality (Private)
 
