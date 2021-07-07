@@ -1,4 +1,4 @@
-# Hello! I'm [Caledonian](https://www.github.com/CaledonianEH "GitHub"), A new java developer developing spigot plugins and discord bots.
+# Hello! 👋 I'm [Caledonian](https://www.github.com/CaledonianEH "GitHub"), A java developer, based in Spigot and JDA Development
 
 ![](https://komarev.com/ghpvc/?username=CaledonianEH)
 
@@ -14,7 +14,7 @@
 
 ## Communication
 - Discord: Caledonian#8960
-- Email: caledonianeh@gmail.com
+- Email: cal@caledonian.xyz
 - GitHub: Caledonian
 
 
