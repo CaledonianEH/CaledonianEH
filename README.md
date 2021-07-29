@@ -8,15 +8,15 @@
   - JDA
 
 ## My Projects
-- Voltrix - My current big project. 
+- Ultarium - Creating quality spigot plugins 
 - HyskiesPunch - Punch plugin similar to hypixel, full SQL support
-- Hyskies - General custom plugins built for functionality (Private)
+- Cocoa - Custom stat predicting discord bot. (Designer)
 
 ## Communication
-- Discord: Caledonian#8960
+- Discord: Caledonian#1000
 - Email: cal@caledonian.xyz
 - GitHub: Caledonian
 
 
 ## Stats
-![Caledonian EH's github stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=gradient)
+![Caledonian EH's github stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=dark)
