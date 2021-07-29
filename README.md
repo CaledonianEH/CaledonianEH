@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Caledonian](https://www.github.com/CaledonianEH "GitHub"), A java developer, based in Spigot and JDA Development
+# Hello! 👋 I'm [Caledonian](https://www.caledonian.xyz/ "My Site"), A java developer, based in Spigot and JDA Development
 
 ![](https://komarev.com/ghpvc/?username=CaledonianEH)
 
