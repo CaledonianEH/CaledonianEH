@@ -19,4 +19,4 @@
 
 
 ## Stats
-![Caledonian EH's github stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=dark)
+![Caledonian EH's github stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=gradient)
