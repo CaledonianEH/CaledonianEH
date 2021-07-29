@@ -6,6 +6,8 @@
 - **Java** *(Main)*
   - Spigot
   - JDA
+- **Javascript** *(Learning)*
+  - discord.js
 
 ## My Projects
 - Ultarium - Creating quality spigot plugins 
