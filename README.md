@@ -16,7 +16,3 @@
 - Discord: Caledonian#1000
 - Email: cal@caledonian.xyz
 - GitHub: Caledonian
-
-
-## Stats
-![Caledonian EH's github stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=gradient)
