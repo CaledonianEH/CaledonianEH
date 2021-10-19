@@ -8,6 +8,10 @@
   - JDA
 - **Javascript** *(Learning)*
   - discord.js
+- **HTML**
+  - Private sites
+- **CSS**
+  - Private sites
 
 ## My Projects
 - Ultarium - Creating quality spigot plugins 
