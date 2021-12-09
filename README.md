@@ -14,9 +14,7 @@
   - Private sites
 
 ## My Projects
-- Ultarium - Creating quality spigot plugins 
-- HyskiesPunch - Punch plugin similar to hypixel, full SQL support
-- Cocoa - Custom stat predicting discord bot. (Designer)
+- Personal projects & work
 
 ## Communication
 - Discord: Caledonian#1000
