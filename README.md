@@ -18,5 +18,5 @@
 
 ## Communication
 - Discord: Caledonian#1000
-- Email: cal@caledonian.xyz
+- Email: cal@caledonian.dev
 - GitHub: Caledonian
