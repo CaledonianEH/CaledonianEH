@@ -20,3 +20,6 @@
 - Discord: Caledonian#1000
 - Email: cal@caledonian.dev
 - GitHub: Caledonian
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaledonianEH&layout=compact&theme=dark)](https://github.com/CaledonianEH/github-readme-stats)
