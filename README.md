@@ -18,7 +18,7 @@
 
 ## Communication
 - Discord: Caledonian#1000
-- Email: cal@caledonian.dev
+- Email: cal@caledonian.xyz
 - GitHub: Caledonian
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=dark)
