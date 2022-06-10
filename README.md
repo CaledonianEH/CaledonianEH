@@ -6,8 +6,10 @@
 - **Java** *(Main)*
   - Spigot
   - JDA
-- **Javascript** *(Learning)*
-  - discord.js
+- **Kotlin** *(Sub-main)*
+  - Spigot
+  - JDA
+  - Personal
 - **HTML**
   - Private sites
 - **CSS**
