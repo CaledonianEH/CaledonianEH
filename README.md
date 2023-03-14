@@ -1,27 +1,36 @@
-# Hello! 👋 I'm [Caledonian](https://www.caledonian.xyz/ "My Site"), A java developer, based in Spigot and JDA Development
+<h1 align="left">Hey 👋 I'm Cal</h1>
 
-![](https://komarev.com/ghpvc/?username=CaledonianEH)
+###
 
-## My Languages
-- **Java** *(Main)*
-  - Spigot
-  - JDA
-- **Kotlin** *(Sub-main)*
-  - Spigot
-  - JDA
-  - Personal
-- **HTML**
-  - Private sites
-- **CSS**
-  - Private sites
+<p align="left">I'm a Java & Kotlin developer, who happens to also do UI/UX design in my free time. Now, to claim I'm good at either would be a bold assumption.</p>
 
-## My Projects
-- Personal projects & work
+###
 
-## Communication
-- Discord: Caledonian#1000
-- Email: cal@caledonian.xyz
-- GitHub: Caledonian
+<h2 align="left">What I can use without entirely failing</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaledonianEH&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaledonianEH&layout=compact&theme=dark)](https://github.com/CaledonianEH/github-readme-stats)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&custom_title=My awful stats&username=CaledonianEH" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&username=CaledonianEH" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Snake :)</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/CaledonianEH/CaledonianEH/blob/output/snake.svg" alt="Snake animation" />
+
+###
