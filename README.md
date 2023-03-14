@@ -19,18 +19,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&custom_title=My awful stats&username=CaledonianEH" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&username=CaledonianEH" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Snake :)</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/CaledonianEH/CaledonianEH/blob/output/snake.svg" alt="Snake animation" />
-
-###
